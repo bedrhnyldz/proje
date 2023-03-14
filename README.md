@@ -1,1 +1,1 @@
-Arduino ile deprem alarmı 
+1) Mezuniyet projesi için arduino ile deprem alarmı yapmak istiyorum. 
